@@ -2,6 +2,37 @@
 Global Sales Data Analytics
 
 Team ID     : PNT2022TMID45296
+
 Team Leader : Abdullah M
+
+Ideation Phase.          - Completed
+
+Project Phase -l.        - Completed
+
+Project Phase -ll.       - Completed
+
+Project Planning Phase.  - Completed
+
+PROJECT DEVELOPMENT PHASE
+
+Sprint 1.                - Completed
+
+Sprint 2.                - Completed
+
+Sprint 3.                - Completed
+
+Sprint 4.                - Completed
+
+FINAL DELIVERABLES
+
+Project Data             - Submitted
+
+Project Report           - Submitted
+
+Project Video Link.      - Submitted
+
+
+
+                    THANK YOU
 
 

@@ -29,7 +29,8 @@ Project Data             - Submitted
 
 Project Report           - Submitted
 
-Project Video Link.      - Submitted
+Project Demo Link.      - Submitted
+--
 
 
 
